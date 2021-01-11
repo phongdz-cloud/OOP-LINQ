@@ -30,6 +30,8 @@ namespace BaiTapLon
             DSLoaiKhachHang.Add(new LOAIKHACHHANG("LKH01", "Vang"));
             DSLoaiKhachHang.Add(new LOAIKHACHHANG("LKH02", "Bach Kim"));
             DSLoaiKhachHang.Add(new LOAIKHACHHANG("LKH03", "Kim Cuong"));
+            DSLoaiKhachHang.Add(new LOAIKHACHHANG("LKH04", "dgvdv"));
+
         }
         public static void TaoDanhSachKhangHang()
         {
