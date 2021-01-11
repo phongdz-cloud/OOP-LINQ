@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+C:\Users\DELL\source\repos\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+C:\Users\DELL\source\repos\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+C:\Users\DELL\source\repos\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+C:\Users\DELL\source\repos\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+C:\Users\DELL\Desktop\19110262_HoHoaiPhong_19110012_TranLeThanhTuyen\Quanlysanpham\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+C:\Users\DELL\Desktop\19110262_HoHoaiPhong_19110012_TranLeThanhTuyen\Quanlysanpham\BaiTapLon\bin\Debug\BaiTapLon.exe
+C:\Users\DELL\Desktop\19110262_HoHoaiPhong_19110012_TranLeThanhTuyen\Quanlysanpham\BaiTapLon\bin\Debug\BaiTapLon.pdb
+C:\Users\DELL\Desktop\19110262_HoHoaiPhong_19110012_TranLeThanhTuyen\Quanlysanpham\BaiTapLon\obj\Debug\BaiTapLon.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\19110262_HoHoaiPhong_19110012_TranLeThanhTuyen\Quanlysanpham\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\19110262_HoHoaiPhong_19110012_TranLeThanhTuyen\Quanlysanpham\BaiTapLon\obj\Debug\BaiTapLon.exe
+C:\Users\DELL\Desktop\19110262_HoHoaiPhong_19110012_TranLeThanhTuyen\Quanlysanpham\BaiTapLon\obj\Debug\BaiTapLon.pdb
