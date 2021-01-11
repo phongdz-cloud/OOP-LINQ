@@ -32,7 +32,7 @@ namespace BaiTapLon
             DSLoaiKhachHang.Add(new LOAIKHACHHANG("LKH03", "Kim Cuong"));
             DSLoaiKhachHang.Add(new LOAIKHACHHANG("LKH04", "dgvdv"));
             DSLoaiKhachHang.Add(new LOAIKHACHHANG("LKH05", "dgvdv"));
-            DSLoaiKhachHang.Add(new LOAIKHACHHANG("LKH06", "dgvdsadasdwqdwqv"));
+            DSLoaiKhachHang.Add(new LOAIKHACHHANG("LKH06", "drfndfnsdnfsfn"));
         }
         public static void TaoDanhSachKhangHang()
         {
